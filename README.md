@@ -1,6 +1,6 @@
 # Corticosteriod_Sensitive_Resistence
 ## Proposed Worlflow
-![](https://raw.githubusercontent.com/hbfawaz112/Corticosteroid-Sensitive-Resistance/main/proposed%20adaptation%20images.PNG?token=GHSAT0AAAAAABRF6C5MHI75AXFHT4UOUD5GYSS55QQ)
+![](https://github.com/hbfawaz112/Corticosteroid-Sensitive-Resistance/blob/main/proposed%20adaptation%20images.PNG?raw=true)
 ## The article written about this work
 <a href="https://github.com/hbfawaz112/Corticosteroid-Sensitive-Resistance/blob/main/The%20article.pdf"> Here </a>
 
